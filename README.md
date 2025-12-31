@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vihan Chandira
+### Hi there 👋 I'm Vihan Chandira
 
 ### 👨‍💻 Developer | Learner | Creator
 
