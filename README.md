@@ -1,6 +1,7 @@
+<div align="center">
+
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandiraVihan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,python,mysql,azure,git,github&theme=dark)](https://skillicons.dev)
 
-[![ChandiraVihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandiraVihan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
