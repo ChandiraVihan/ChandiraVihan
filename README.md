@@ -4,6 +4,7 @@
 
 ### 👨‍💻 Developer | Learner | Creator
 
+</div>
 ---
 
 ## 🚀 About Me
@@ -61,4 +62,4 @@ Computer Science undergraduate passionate about:
 
 Give a ⭐️ if you like my projects!
 
-</div>
+
