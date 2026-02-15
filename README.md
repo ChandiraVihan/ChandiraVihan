@@ -59,7 +59,7 @@ Computer Science undergraduate passionate about:
 - Cloud Foundations
 
 ---
-
+<div align="center">
 Give a ⭐️ if you like my projects!
 
-
+</div>
