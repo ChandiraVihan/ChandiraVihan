@@ -28,7 +28,7 @@ Computer Science undergraduate passionate about:
 
 
 ### ☁️ Cloud | 🔁 Version Control |  🚀 DevOps
-![My Skills](https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,docker&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=vercel,aws,azure,git,github,githubactions,docker&theme=dark)
 ### ⚙️ Embedded
 ![My Skills](https://skillicons.dev/icons?i=arduino&theme=dark)
 <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white"/>
